@@ -5,7 +5,7 @@ Repository made to document what and how I created my personal home server
 * Webmin | aaPanel
 * Recalbox
 * OliveTin
-* Portainer | Dockstation
+* Portainer
 
 ## Install contenerised
 * Conteinerised don't starve server

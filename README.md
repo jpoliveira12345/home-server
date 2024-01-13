@@ -2,7 +2,7 @@
 Repository made to document what and how I created my personal home server
 
 ## Install directly
-* Webmin | aaPanel
+* Webmin
 * Recalbox
 * OliveTin
 * Portainer

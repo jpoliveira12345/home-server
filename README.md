@@ -10,7 +10,6 @@ Repository made to document what and how I created my personal home server
 ## Install contenerised
 * Conteinerised don't starve server
 * qBittorrent
-* floodJs
 * NextCloud
 * Emby
 * Pihole

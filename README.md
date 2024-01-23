@@ -14,7 +14,7 @@ Repository made to document what and how I created my personal home server
 * Emby
 * Pihole
 * VPN (TBD)
-
+* Kodi
 
 ## Features
 * Conteinerised don't starve server

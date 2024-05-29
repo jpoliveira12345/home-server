@@ -15,6 +15,7 @@ Repository made to document what and how I created my personal home server
 * Pihole
 * VPN (TBD)
 * Kodi
+* Airsonic (music server)
 
 ## Features
 * Conteinerised don't starve server
